@@ -1,0 +1,34 @@
+#Meaning of columns given by next line (t for top and b or bottom)
+#Name,t incisors,t canines,t premolars,t molars,b incisors,b canines,
+#b premolars,b molars,weight
+Name,ti,tc,tpm,tm,bi,bc,bpm,bm,weight
+Badger,3,1,3,1,3,1,3,2,10
+Bear,3,1,4,2,3,1,4,3,278
+Cougar,3,1,3,1,3,1,2,1,63
+Cow,0,0,3,3,3,1,2,1,400
+Deer,0,0,3,3,4,0,3,3,200
+Dog,3,1,4,2,3,1,4,3,20
+Elk,0,1,3,3,3,1,3,3,500
+Fox,3,1,4,2,3,1,4,3,5
+Fur seal,3,1,4,1,2,1,4,1,200
+Grey seal,3,1,3,2,2,1,3,2,268
+Guinea pig,1,0,1,3,1,0,1,3,1
+Human,2,1,2,3,2,1,2,3,150
+Jaguar,3,1,3,1,3,1,2,1,81
+Kangaroo,3,1,2,4,1,0,2,4,55
+Lion,3,1,3,1,3,1,2,1,175
+Mink,3,1,3,1,3,1,3,2,1
+Mole,3,1,4,3,3,1,4,3,0.75
+Moose,0,0,3,3,4,0,3,3,900
+Mouse,1,0,0,3,1,0,0,3,0.3
+Pig,3,1,4,3,3,1,4,3,50
+Porcupine,1,0,1,3,1,0,1,3,3
+Rabbit,2,0,3,3,1,0,2,3,1
+Raccoon,3,1,4,2,3,1,4,2,40
+Rat,1,0,0,3,1,0,0,3,.75
+Red bat,1,1,2,3,3,1,2,3,1
+Sea lion,3,1,4,1,2,1,4,1,415
+Skunk,3,1,3,1,3,1,3,2,2
+Squirrel,1,0,2,3,1,0,1,3,2
+Wolf,3,1,4,2,3,1,4,3,27
+Woodchuck,1,0,2,3,1,0,1,3,4

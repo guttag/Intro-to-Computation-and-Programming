@@ -1,0 +1,32 @@
+#diet: 0=herbivore, 1=carnivore, 2=omnivore
+Name,Diet
+Badger,1
+Bear,2
+Cougar,1
+Cow,0
+Deer,0
+Dog,1
+Elk,0
+Fox,1
+Fur seal,1
+Grey seal,1
+Guinea pig0
+Human,2
+Jaguar,1
+Kangaroo,0
+Lion,1
+Mink,1
+Mole,1
+Moose,0
+Mouse,2
+Pig,2
+Porcupine,0
+Rabbit,0
+Raccoon,2
+Rat,2
+Red bat,1
+Sea lion,1
+Skunk,2
+Squirrel,2
+Wolf,1
+Woodchuck,2
